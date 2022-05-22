@@ -7,5 +7,8 @@
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
       <a href="https://www.instagram.com/ilyasginx/">
   <img src="https://img.shields.io/badge/Instagram-red?logo=Instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/></a>
+    
 </div>
+  <img src="https://komarev.com/ghpvc/?username=kkonayuki&style=flat-square&color=blue" alt=""/>
 </div>
+<hr>
